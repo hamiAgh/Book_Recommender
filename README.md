@@ -6,11 +6,11 @@ Analysis of 10K books from a Goodreads Dataset, with the goal of clustering book
 
 ## Tools
    - Python
-   - Machine Learning Models: k-means and DBSCAN Clustering Models
+   - ML Models: k-means and DBSCAN Clustering Models
    - Streamlit for app creation
    - SQL for EDA
    - Tableau for data visualisation
-
+   
 
 ## Process:
 
